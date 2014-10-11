@@ -78,4 +78,6 @@ function machineData() {
 	{
 		queryFromID(IDs[i], i);
 	}
+
+	return jsonTxt;
 }
