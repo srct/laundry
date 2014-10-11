@@ -1,0 +1,54 @@
+body
+{
+	width: 960px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+img
+{
+	margin: 16px;
+	width: 128px;
+	height: 128px;
+}
+
+div
+{
+	margin-top: 40px;
+}
+
+.laudromatNames
+{
+	display: inline-block;
+
+	width: 200px;
+	height: 50px;
+
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: #000000;
+
+	padding-top: 25px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	background-color: #A0A0A0;
+
+	cursor: pointer;
+}
+
+#top_info
+{
+	color: #FFFFFF;
+	font-size:16px;
+	text-align: center;
+}
+
+.titlebar
+{
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+}
